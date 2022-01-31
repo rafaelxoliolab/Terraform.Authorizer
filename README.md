@@ -1,3 +1,5 @@
 # Terraform.Authorizer
 
-Test
+- Download
+- Run terraform init
+- Run terraform validate
